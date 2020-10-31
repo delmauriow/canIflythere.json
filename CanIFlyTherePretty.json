@@ -1932,7 +1932,8 @@
       "status":"exists"
    },
    "0MT0":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"RC0"
    },
    "0MT1":{
       "status":"exists"
@@ -2711,7 +2712,8 @@
       "status":"exists"
    },
    "11J":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KBIJ"
    },
    "11K":{
       "status":"exists"
@@ -3714,7 +3716,8 @@
       "status":"missing"
    },
    "1AK3":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PAAL"
    },
    "1AK4":{
       "status":"exists"
@@ -4460,7 +4463,8 @@
       "status":"exists"
    },
    "1N9":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KJVU"
    },
    "1NA0":{
       "status":"exists"
@@ -4979,7 +4983,8 @@
       "status":"exists"
    },
    "1V9":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KAJZ"
    },
    "1VA0":{
       "status":"exists"
@@ -7322,7 +7327,8 @@
       "status":"exists"
    },
    "2V2":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KLMO"
    },
    "2V3":{
       "status":"exists"
@@ -7334,7 +7340,8 @@
       "status":"exists"
    },
    "2V8":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"1CO5"
    },
    "2VA0":{
       "status":"exists"
@@ -7646,7 +7653,8 @@
       "status":"exists"
    },
    "31M":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"3MS9"
    },
    "31MA":{
       "status":"exists"
@@ -8498,7 +8506,8 @@
       "status":"exists"
    },
    "3A1":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KCMD"
    },
    "3A2":{
       "status":"exists"
@@ -9390,7 +9399,8 @@
       "status":"exists"
    },
    "3O7":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KCVH"
    },
    "3O8":{
       "status":"exists"
@@ -9974,7 +9984,8 @@
       "status":"exists"
    },
    "40N":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KMQS"
    },
    "40NE":{
       "status":"exists"
@@ -12716,7 +12727,8 @@
       "status":"exists"
    },
    "55J":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KFHB"
    },
    "55K":{
       "status":"exists"
@@ -13784,7 +13796,8 @@
       "status":"exists"
    },
    "5N3":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"NY55"
    },
    "5N4":{
       "status":"exists"
@@ -13832,7 +13845,8 @@
       "status":"exists"
    },
    "5NC3":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"BQ1"
    },
    "5NC5":{
       "status":"exists"
@@ -14266,7 +14280,8 @@
       "status":"exists"
    },
    "5W8":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KSCR"
    },
    "5WA0":{
       "status":"exists"
@@ -14818,7 +14833,8 @@
       "status":"exists"
    },
    "64FL":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KPON"
    },
    "64G":{
       "status":"exists"
@@ -16714,7 +16730,8 @@
       "status":"exists"
    },
    "73J":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KARW"
    },
    "73KS":{
       "status":"missing"
@@ -17172,7 +17189,8 @@
       "status":"exists"
    },
    "78N":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KSIF"
    },
    "78NC":{
       "status":"exists"
@@ -20559,7 +20577,8 @@
       "status":"exists"
    },
    "95L":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"CL33"
    },
    "95LL":{
       "status":"missing"
@@ -20899,7 +20918,8 @@
       "status":"exists"
    },
    "9A1":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KCVC"
    },
    "9A2":{
       "status":"missing"
@@ -21176,7 +21196,8 @@
       "status":"missing"
    },
    "9K2":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PFKK"
    },
    "9K3":{
       "status":"missing"
@@ -21684,7 +21705,8 @@
       "status":"missing"
    },
    "9U4":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KDWX"
    },
    "9U5":{
       "status":"renamed",
@@ -21949,7 +21971,8 @@
       "status":"exists"
    },
    "ABO":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"TJAB"
    },
    "AGGA":{
       "status":"exists"
@@ -22063,7 +22086,8 @@
       "status":"exists"
    },
    "AK23":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PAAM"
    },
    "AK24":{
       "status":"exists"
@@ -22177,7 +22201,8 @@
       "status":"exists"
    },
    "AKI":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PFAK"
    },
    "AKK":{
       "status":"missing"
@@ -25147,7 +25172,8 @@
       "status":"exists"
    },
    "CPX":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"TJCP"
    },
    "CPX3":{
       "status":"exists"
@@ -29958,7 +29984,8 @@
       "status":"exists"
    },
    "EIKL":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"EIKK"
    },
    "EIKN":{
       "status":"exists"
@@ -29988,7 +30015,8 @@
       "status":"exists"
    },
    "EK0A":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"EK23"
    },
    "EKAE":{
       "status":"exists"
@@ -30327,7 +30355,8 @@
       "simIcao":"EP62"
    },
    "EP0E":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"EPTM"
    },
    "EPBA":{
       "status":"exists"
@@ -34547,7 +34576,8 @@
       "status":"missing"
    },
    "GBN":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KGXF"
    },
    "GBYD":{
       "status":"exists"
@@ -34955,10 +34985,12 @@
       "status":"exists"
    },
    "GX04":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"LG02"
    },
    "H000":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"HE44"
    },
    "H04":{
       "status":"exists"
@@ -35790,7 +35822,8 @@
       "simIcao":"HL74"
    },
    "HL0V":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"HLMS"
    },
    "HL0W":{
       "status":"renamed",
@@ -36734,7 +36767,8 @@
       "status":"exists"
    },
    "ID76":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"C48"
    },
    "ID77":{
       "status":"exists"
@@ -39877,7 +39911,8 @@
       "status":"exists"
    },
    "KFCA":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KGPI"
    },
    "KFCH":{
       "status":"exists"
@@ -41272,7 +41307,8 @@
       "status":"exists"
    },
    "KLG":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"PALG"
    },
    "KLGA":{
       "status":"exists"
@@ -44233,7 +44269,8 @@
       "status":"exists"
    },
    "KWT":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PFKW"
    },
    "KWVI":{
       "status":"exists"
@@ -44278,7 +44315,8 @@
       "status":"missing"
    },
    "KYUM":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KNYL"
    },
    "KZ0A":{
       "status":"renamed",
@@ -44425,7 +44463,8 @@
       "status":"exists"
    },
    "L53":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"CA70"
    },
    "L54":{
       "status":"exists"
@@ -44472,7 +44511,8 @@
       "status":"exists"
    },
    "L75":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KUXL"
    },
    "L77":{
       "status":"exists"
@@ -44749,7 +44789,8 @@
       "simIcao":"LB24"
    },
    "LB0P":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"LBWB"
    },
    "LB0Q":{
       "status":"renamed",
@@ -46784,7 +46825,8 @@
       "status":"exists"
    },
    "LKK":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PAKL"
    },
    "LKKA":{
       "status":"exists"
@@ -47898,7 +47940,8 @@
       "status":"exists"
    },
    "LU0A":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"LUBM"
    },
    "LUBL":{
       "status":"exists"
@@ -47967,7 +48010,8 @@
       "simIcao":"LY87"
    },
    "LY0B":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"LYBO"
    },
    "LY0C":{
       "status":"renamed",
@@ -50233,7 +50277,8 @@
       "status":"missing"
    },
    "MP0C":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"MPGU"
    },
    "MP0D":{
       "status":"renamed",
@@ -51685,7 +51730,8 @@
       "status":"exists"
    },
    "N67":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KLOM"
    },
    "N68":{
       "status":"exists"
@@ -51721,7 +51767,7 @@
       "status":"exists"
    },
    "N82":{
-      "status":"missing"
+      "status":"exists"
    },
    "N83":{
       "status":"exists"
@@ -51745,7 +51791,8 @@
       "status":"exists"
    },
    "N93":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PAGL"
    },
    "N94":{
       "status":"exists"
@@ -51760,7 +51807,8 @@
       "status":"exists"
    },
    "N99":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KOQN"
    },
    "NA01":{
       "status":"missing"
@@ -51976,7 +52024,8 @@
       "status":"exists"
    },
    "NBJ":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KNBJ"
    },
    "NC00":{
       "status":"exists"
@@ -52537,7 +52586,8 @@
       "status":"exists"
    },
    "NFD":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KNFD"
    },
    "NFFN":{
       "status":"exists"
@@ -53120,7 +53170,8 @@
       "status":"missing"
    },
    "NRQ":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KNRQ"
    },
    "NSFA":{
       "status":"exists"
@@ -54043,7 +54094,8 @@
       "status":"exists"
    },
    "O48":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KLLR"
    },
    "O50":{
       "status":"missing"
@@ -57060,7 +57112,8 @@
       "status":"missing"
    },
    "PKA":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PAPK"
    },
    "PKMA":{
       "status":"exists"
@@ -57806,7 +57859,8 @@
       "status":"missing"
    },
    "RJCJ":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"RJCC"
    },
    "RJCK":{
       "status":"exists"
@@ -58638,7 +58692,8 @@
       "simIcao":"RPLZ"
    },
    "RSH":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PARS"
    },
    "S00":{
       "status":"exists"
@@ -58746,7 +58801,8 @@
       "status":"exists"
    },
    "S47":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KTMK"
    },
    "S48":{
       "status":"exists"
@@ -58894,13 +58950,16 @@
       "simIcao":"SA13"
    },
    "SA0E":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SAEM"
    },
    "SA0F":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SAWL"
    },
    "SA0G":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"DOP"
    },
    "SA0H":{
       "status":"renamed",
@@ -58943,10 +59002,12 @@
       "simIcao":"SA27"
    },
    "SA0S":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"TQL"
    },
    "SA0T":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"OEL"
    },
    "SA0U":{
       "status":"renamed",
@@ -59008,7 +59069,8 @@
       "simIcao":"SA44"
    },
    "SA1J":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"FRS"
    },
    "SA1K":{
       "status":"renamed",
@@ -59126,7 +59188,7 @@
       "status":"missing"
    },
    "SAMQ":{
-      "status":"missing"
+      "status":"exists"
    },
    "SAMR":{
       "status":"exists"
@@ -60046,7 +60108,8 @@
       "simIcao":"SNLY"
    },
    "SBI2":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SSYO"
    },
    "SBIC":{
       "status":"exists"
@@ -60760,7 +60823,7 @@
       "status":"exists"
    },
    "SCOS":{
-      "status":"missing"
+      "status":"exists"
    },
    "SCOT":{
       "status":"exists"
@@ -62715,7 +62778,8 @@
       "status":"exists"
    },
    "SP0B":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SPEE"
    },
    "SP0C":{
       "status":"renamed",
@@ -62794,7 +62858,8 @@
       "status":"missing"
    },
    "SPIM":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SPJC"
    },
    "SPIN":{
       "status":"exists"
@@ -63001,7 +63066,8 @@
       "status":"exists"
    },
    "SSCC":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SBCD"
    },
    "SSCK":{
       "status":"exists"
@@ -63949,7 +64015,8 @@
       "status":"missing"
    },
    "SWUY":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SBUY"
    },
    "SWUZ":{
       "status":"exists"
@@ -64721,7 +64788,8 @@
       "status":"exists"
    },
    "TJNR":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"TJRV"
    },
    "TJPS":{
       "status":"exists"
@@ -65470,7 +65538,8 @@
       "status":"exists"
    },
    "U19":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KFOM"
    },
    "U25":{
       "status":"missing"
@@ -65949,7 +66018,8 @@
       "status":"exists"
    },
    "ULL":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"EG13"
    },
    "ULLI":{
       "status":"exists"
@@ -68615,7 +68685,8 @@
       "status":"exists"
    },
    "WASR":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WAUU"
    },
    "WASS":{
       "status":"exists"
@@ -68955,7 +69026,8 @@
       "status":"exists"
    },
    "WIIA":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIRR"
    },
    "WIIB":{
       "status":"renamed",
@@ -68973,7 +69045,8 @@
       "status":"exists"
    },
    "WIIJ":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WAHH"
    },
    "WIIL":{
       "status":"missing"
@@ -68983,29 +69056,34 @@
       "simIcao":"WIHP"
    },
    "WIIS":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WAHS"
    },
    "WIIT":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WILL"
    },
    "WIKB":{
       "status":"renamed",
       "simIcao":"WIDD"
    },
    "WIKD":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIKT"
    },
    "WIKG":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIBG"
    },
    "WIKK":{
-      "status":"missing"
+      "status":"exists"
    },
    "WIKL":{
       "status":"missing"
    },
    "WIKM":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIDM"
    },
    "WIKN":{
       "status":"renamed",
@@ -69022,7 +69100,8 @@
       "status":"exists"
    },
    "WIMG":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIET"
    },
    "WIMM":{
       "status":"exists"
@@ -69037,7 +69116,8 @@
       "status":"exists"
    },
    "WION":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIDO"
    },
    "WIOO":{
       "status":"exists"
@@ -69052,7 +69132,8 @@
       "status":"missing"
    },
    "WIPL":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIGG"
    },
    "WIPP":{
       "status":"exists"
@@ -69061,16 +69142,19 @@
       "status":"exists"
    },
    "WIPR":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIBJ"
    },
    "WIPU":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIGM"
    },
    "WITL":{
       "status":"exists"
    },
    "WITM":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIMA"
    },
    "WITT":{
       "status":"exists"
@@ -69316,7 +69400,8 @@
       "status":"missing"
    },
    "WNA":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"PANA"
    },
    "WPDB":{
       "status":"exists"
@@ -69386,7 +69471,8 @@
       "simIcao":"WATM"
    },
    "WRLK":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WAQT"
    },
    "WRLL":{
       "status":"renamed",
@@ -69433,7 +69519,8 @@
       "simIcao":"WARR"
    },
    "WRSQ":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WAHQ"
    },
    "WS01":{
       "status":"missing"
@@ -69944,7 +70031,8 @@
       "status":"exists"
    },
    "X47":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KFIN"
    },
    "X49":{
       "status":"exists"
@@ -71248,7 +71336,8 @@
       "status":"exists"
    },
    "YSCH":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"YCFS"
    },
    "YSCN":{
       "status":"exists"
@@ -71491,13 +71580,15 @@
       "status":"exists"
    },
    "Z00X":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SALV"
    },
    "Z01O":{
       "status":"exists"
    },
    "Z02C":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"MGI"
    },
    "Z04X":{
       "status":"renamed",
@@ -71510,7 +71601,8 @@
       "status":"missing"
    },
    "Z08":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"NSAS"
    },
    "Z08G":{
       "status":"missing"
@@ -71583,7 +71675,8 @@
       "status":"exists"
    },
    "Z12D":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"LHBD"
    },
    "Z12E":{
       "status":"missing"
@@ -71840,7 +71933,8 @@
       "status":"missing"
    },
    "Z27S":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"LYUZ"
    },
    "Z27U":{
       "status":"exists"
