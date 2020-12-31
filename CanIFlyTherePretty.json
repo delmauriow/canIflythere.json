@@ -11720,7 +11720,8 @@
       "status":"exists"
    },
    "4O3":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KJWY"
    },
    "4O4":{
       "status":"exists"
@@ -32921,7 +32922,8 @@
       "status":"exists"
    },
    "FLND":{
-      "status":"exists"
+      "status":"renamed",
+      "simIcao":"FLSK"
    },
    "FLNL":{
       "status":"exists"
